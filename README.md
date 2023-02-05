@@ -1,2 +1,2 @@
 # Pig-game-js
-practice game project js
+Practice JavaScript project from js course.
